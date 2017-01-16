@@ -1,0 +1,104 @@
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ComputerSaver.exe
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ComputerSaver.pdb
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Data.v16.1.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Utils.v16.1.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Data.v16.1.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Utils.v16.1.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.csprojResolveAssemblyReference.cache
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.Properties.Resources.resources
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.csproj.GenerateResource.Cache
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.exe
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.pdb
+c:\users\hyerin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.exe.licenses
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.progress.resources
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.main.resources
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.Martin.resources
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\HyeRin\documents\visual studio 2015\Projects\ComputerSaver\ComputerSaver\bin\Debug\MouseKeyboardLibrary.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.exe
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.pdb
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ComputerSaver.exe
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ComputerSaver.pdb
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevComponents.DotNetBar2.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Data.v16.1.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\MouseKeyboardLibrary.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevComponents.DotNetBar2.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Data.v16.1.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.csprojResolveAssemblyReference.cache
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.main.resources
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.Martin.resources
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.Progress.resources
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.Properties.Resources.resources
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.csproj.GenerateResource.Cache
+E:\혜린이의 문서폴더\수업자료\2-2\객체지향윈도우즈프로그래밍\프로젝트\ComputerSaver\ComputerSaver\obj\Debug\ComputerSaver.exe.licenses
