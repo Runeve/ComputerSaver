@@ -11,16 +11,16 @@ You can use Remote to control other computers remotely.
 
 
 **◈ ID registration and saving function**
-: Monitor off, Suspend, Hibernate, Shut Down. Monitor off function to turn off monitor only, Suspend power saving mode, Hibernate function to switch to maximum saving mode, and Shut Down function to shut down computer.
+>: Monitor off, Suspend, Hibernate, Shut Down. Monitor off function to turn off monitor only, Suspend power saving mode, Hibernate function to switch to maximum saving mode, and Shut Down function to shut down computer.
 
 **◈ Log to record function execution time**
-: Logs are recorded for all functions. Displays the elapsed time until the monitor grows after executing the last saving function. You can also save log records as text files.
+>: Logs are recorded for all functions. Displays the elapsed time until the monitor grows after executing the last saving function. You can also save log records as text files.
 
 **◈ Reservation**
-: It is possible to schedule the function to be executed several days, several hours and a few minutes later. Up to three reservations can be specified.
+>: It is possible to schedule the function to be executed several days, several hours and a few minutes later. Up to three reservations can be specified.
 
 **◈ Remote Control**
-: Remote control is possible. Remote control can be switched on and remote control is possible by registering the IP address of the computer to be remotely controlled. Circular Progress is activated at this time.
+>: Remote control is possible. Remote control can be switched on and remote control is possible by registering the IP address of the computer to be remotely controlled. Circular Progress is activated at this time.
 
 **◈ Setting**
-: Various settings can be saved. You can also specify a shortcut, which is saved as a text file and saved even when you run the program later. You can also specify a color to specify the background color.
+>: Various settings can be saved. You can also specify a shortcut, which is saved as a text file and saved even when you run the program later. You can also specify a color to specify the background color.
