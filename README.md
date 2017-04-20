@@ -24,3 +24,5 @@ You can use Remote to control other computers remotely.
 
 **◈ Setting**
 >: Various settings can be saved. You can also specify a shortcut, which is saved as a text file and saved even when you run the program later. You can also specify a color to specify the background color.
+
+Test Video : https://youtu.be/r0wmjgx7b6Y 
